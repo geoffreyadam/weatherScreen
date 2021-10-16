@@ -1,0 +1,277 @@
+  {
+  "200": {
+    "tag": "Thunderstorm",
+    "iconDay": "wi-day-sleet-storm",
+    "iconNight": "wi-night-alt-sleet-storm"
+  },
+  "201": {
+    "tag": "Thunderstorm",
+    "iconDay": "wi-day-sleet-storm",
+    "iconNight": "wi-night-alt-sleet-storm"
+  },
+  "202": {
+    "tag": "Thunderstorm",
+    "iconDay": "wi-day-sleet-storm",
+    "iconNight": "wi-night-alt-sleet-storm"
+  },
+  "210": {
+    "tag": "Thunderstorm",
+    "iconDay": "wi-day-thunderstorm",
+    "iconNight": "wi-night-alt-thunderstorm"
+  },
+  "211": {
+    "tag": "Thunderstorm",
+    "iconDay": "wi-day-thunderstorm",
+    "iconNight": "wi-night-alt-thunderstorm"
+  },
+  "212": {
+    "tag": "Thunderstorm",
+    "iconDay": "wi-day-thunderstorm",
+    "iconNight": "wi-night-alt-thunderstorm"
+  },
+  "221": {
+    "tag": "Thunderstorm",
+    "iconDay": "wi-day-sleet-storm",
+    "iconNight": "wi-night-alt-sleet-storm"
+  },
+  "230": {
+    "tag": "Thunderstorm",
+    "iconDay": "wi-day-sleet-storm",
+    "iconNight": "wi-night-alt-sleet-storm"
+  },
+  "231": {
+    "tag": "Thunderstorm",
+    "iconDay": "wi-day-sleet-storm",
+    "iconNight": "wi-night-alt-sleet-storm"
+  },
+  "232": {
+    "tag": "Thunderstorm",
+    "iconDay": "wi-day-sleet-storm",
+    "iconNight": "wi-night-alt-sleet-storm"
+  },
+  "300": {
+    "tag": "Drizzle",
+    "iconDay": "wi-day-sprinkle",
+    "iconNight": "wi-night-alt-sprinkle"
+  },
+  "301": {
+    "tag": "Drizzle",
+    "iconDay": "wi-day-sprinkle",
+    "iconNight": "wi-night-alt-sprinkle"
+  },
+  "302": {
+    "tag": "Drizzle",
+    "iconDay": "wi-day-sprinkle",
+    "iconNight": "wi-night-alt-sprinkle"
+  },
+  "310": {
+    "tag": "Drizzle",
+    "iconDay": "wi-day-sprinkle",
+    "iconNight": "wi-night-alt-sprinkle"
+  },
+  "311": {
+    "tag": "Drizzle",
+    "iconDay": "wi-day-sprinkle",
+    "iconNight": "wi-night-alt-sprinkle"
+  },
+  "312": {
+    "tag": "Drizzle",
+    "iconDay": "wi-day-sprinkle",
+    "iconNight": "wi-night-alt-sprinkle"
+  },
+  "313": {
+    "tag": "Drizzle",
+    "iconDay": "wi-day-sprinkle",
+    "iconNight": "wi-night-alt-sprinkle"
+  },
+  "314": {
+    "tag": "Drizzle",
+    "iconDay": "wi-day-sprinkle",
+    "iconNight": "wi-night-alt-sprinkle"
+  },
+  "321": {
+    "tag": "Drizzle",
+    "iconDay": "wi-day-sprinkle",
+    "iconNight": "wi-night-alt-sprinkle"
+  },
+  "500": {
+    "tag": "Rain",
+    "iconDay": "wi-day-hail",
+    "iconNight": "wi-night-alt-hail"
+  },
+  "501": {
+    "tag": "Rain",
+    "iconDay": "wi-day-hail",
+    "iconNight": "wi-night-alt-hail"
+  },
+  "502": {
+    "tag": "Rain",
+    "iconDay": "wi-day-hail",
+    "iconNight": "wi-night-alt-hail"
+  },
+  "503": {
+    "tag": "Rain",
+    "iconDay": "wi-day-hail",
+    "iconNight": "wi-night-alt-hail"
+  },
+  "504": {
+    "tag": "Rain",
+    "iconDay": "wi-day-hail",
+    "iconNight": "wi-night-alt-hail"
+  },
+  "511": {
+    "tag": "Rain",
+    "iconDay": "wi-day-rain-mix",
+    "iconNight": "wi-night-alt-rain-mix"
+  },
+  "520": {
+    "tag": "Rain",
+    "iconDay": "wi-day-rain",
+    "iconNight": "wi-night-alt-rain"
+  },
+  "521": {
+    "tag": "Rain",
+    "iconDay": "wi-day-rain",
+    "iconNight": "wi-night-alt-rain"
+  },
+  "522": {
+    "tag": "Rain",
+    "iconDay": "wi-day-rain",
+    "iconNight": "wi-night-alt-rain"
+  },
+  "531": {
+    "tag": "Rain",
+    "iconDay": "wi-day-rain",
+    "iconNight": "wi-night-alt-rain"
+  },
+  "600": {
+    "tag": "Snow",
+    "iconDay": "wi-day-snow-wind",
+    "iconNight": "wi-night-alt-snow"
+  },
+  "601": {
+    "tag": "Snow",
+    "iconDay": "wi-day-snow-wind",
+    "iconNight": "wi-night-alt-snow"
+  },
+  "602": {
+    "tag": "Snow",
+    "iconDay": "wi-day-snow-wind",
+    "iconNight": "wi-night-alt-snow"
+  },
+  "611": {
+    "tag": "Snow",
+    "iconDay": "wi-day-snow-wind",
+    "iconNight": "wi-night-alt-snow"
+  },
+  "612": {
+    "tag": "Snow",
+    "iconDay": "wi-day-snow-wind",
+    "iconNight": "wi-night-alt-snow"
+  },
+  "613": {
+    "tag": "Snow",
+    "iconDay": "wi-day-snow-wind",
+    "iconNight": "wi-night-alt-snow"
+  },
+  "615": {
+    "tag": "Snow",
+    "iconDay": "wi-day-snow-wind",
+    "iconNight": "wi-night-alt-snow"
+  },
+  "616": {
+    "tag": "Snow",
+    "iconDay": "wi-day-snow-wind",
+    "iconNight": "wi-night-alt-snow"
+  },
+  "620": {
+    "tag": "Snow",
+    "iconDay": "wi-day-snow-wind",
+    "iconNight": "wi-night-alt-snow"
+  },
+  "621": {
+    "tag": "Snow",
+    "iconDay": "wi-day-snow-wind",
+    "iconNight": "wi-night-alt-snow"
+  },
+  "622": {
+    "tag": "Snow",
+    "iconDay": "wi-day-snow-wind",
+    "iconNight": "wi-night-alt-snow"
+  },
+  "701": {
+    "tag": "Mist",
+    "iconDay": "wi-day-fog",
+    "iconNight": "wi-night-fog"
+  },
+  "711": {
+    "tag": "Smoke",
+    "iconDay": "wi-day-fog",
+    "iconNight": "wi-night-fog"
+  },
+  "721": {
+    "tag": "Haze",
+    "iconDay": "wi-day-haze",
+    "iconNight": "wi-night-fog"
+  },
+  "731": {
+    "tag": "Dust",
+    "iconDay": "wi-day-fog",
+    "iconNight": "wi-night-fog"
+  },
+  "741": {
+    "tag": "Fog",
+    "iconDay": "wi-day-fog",
+    "iconNight": "wi-night-fog"
+  },
+  "751": {
+    "tag": "Sand",
+    "iconDay": "wi-day-fog",
+    "iconNight": "wi-night-fog"
+  },
+  "761": {
+    "tag": "Dust",
+    "iconDay": "wi-day-fog",
+    "iconNight": "wi-night-fog"
+  },
+  "762": {
+    "tag": "Ash",
+    "iconDay": "wi-day-fog",
+    "iconNight": "wi-night-fog"
+  },
+  "771": {
+    "tag": "Squall",
+    "iconDay": "",
+    "iconNight": ""
+  },
+  "781": {
+    "tag": "Tornado",
+    "iconDay": "",
+    "iconNight": ""
+  },
+  "800": {
+    "tag": "Clear sky",
+    "iconDay": "wi-day-sunny",
+    "iconNight": "wi-night-clear"
+  },
+  "801": {
+    "tag": "Clouds",
+    "iconDay": "wi-day-cloudy",
+    "iconNight": "wi-night-alt-partly-cloudy"
+  },
+  "802": {
+    "tag": "Clouds",
+    "iconDay": "wi-cloud",
+    "iconNight": "wi-night-alt-partly-cloudy"
+  },
+  "803": {
+    "tag": "Clouds",
+    "iconDay": "wi-cloudy",
+    "iconNight": "wi-night-alt-cloudy"
+  },
+  "804": {
+    "tag": "Clouds",
+    "iconDay": "wi-cloudy",
+    "iconNight": "wi-night-alt-cloudy"
+  }
+}
